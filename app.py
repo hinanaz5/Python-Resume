@@ -27,8 +27,8 @@ social_media = {
 
 projects = {
 	'Employee Churn - ML App': 'https://employee-churn-app.streamlit.app/',
-        'Machine Learning Spot Website': 'https://machinelearningspot.com/machine-learning-guide/',
-	'ML News Website': 'https://mlnews.dev/',
+        'USA Industries Website': 'https://us-industries.netlify.app/',
+	'NAICS Code LookUp Website': 'https://naics-code-website.netlify.app/',
 	'React Ecommerce Website':'https://eccomerce-mg.netlify.app/',
 	'Portfolio Website': 'https://portfolio-hina.netlify.app/',
 	'IOTA-Clone': 'https://hinanaz5.github.io/IOTA-Clone/',
